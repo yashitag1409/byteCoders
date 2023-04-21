@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  margin-top: -7px !important;
+}
+.mens-section {
+  margin: 0px auto !important;
+  padding: 0px !important;
+  background-color: #e9f8f9;
+  margin-top: 10px !important;
+  width: 100% !important;
+  display: grid;
+  row-gap: 50px;
+
+  /* grid-template-columns: repeat(1fr, 3); */
+}
+.content-part {
+  margin: 15px auto !important;
+  margin-top: 15px !important;
+}
+.carousel-images {
+  /* width: 75vw; */
+  height: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  text-transform: uppercase;
+  font-weight: bolder !important;
+  font-size: 50px !important;
+}
+.card {
+  /* row-gap: 50px; */
+  margin: 30px auto;
+}
+.card-images {
+  height: 300px !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+}
+.card1 {
+  background-image: url("images/image-product-1-thumbnail.jpg") !important;
+}
