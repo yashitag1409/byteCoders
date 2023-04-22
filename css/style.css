@@ -41,6 +41,7 @@ h1 {
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-size: contain !important;
+  width:75% !important;
 }
 .card1 {
   background-image: url("images/image-product-1-thumbnail.jpg") !important;

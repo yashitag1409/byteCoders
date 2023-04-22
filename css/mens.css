@@ -10,3 +10,12 @@
   margin: 15px auto !important;
   margin-top: 15px !important;
 }
+
+.card-images {
+  height: 300px !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  width:75% !important;
+  margin: auto;
+}
